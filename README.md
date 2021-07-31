@@ -9,4 +9,4 @@ Centroid-based clustering organizes the data into non-hierarchical clusters, in 
 
 ## Density-based Clustering
 
-Density-based clustering connects areas of high example density into clusters. This allows for arbitrary-shaped distributions as long as dense areas can be connected. These algorithms have difficulty with data of varying densities and high dimensions. Further, by design, these algorithms do not assign outliers to clusters.
+Density-based clustering connects areas of high example density into clusters. This allows for arbitrary-shaped distributions as long as dense areas can be connected. These algorithms have difficulty with data of varying densities and high dimensions. Further, by design, these algorithms do not assign outliers to clusters. [Clustering Algorithms](https://developers.google.com/machine-learning/clustering/clustering-algorithms)
